@@ -193,4 +193,13 @@
 [My solution for DOM manipulation update for RPS game](https://github.com/catcecilia/rockpaperscissors) \
 [Live version of my RPS game](https://catcecilia.github.io/rockpaperscissors/)
 
+### Day 23: October 12, 2020
+**Today's Progress:** I started the Etch-a-Sketch project
+
+**Thoughts:** I read it and am going to break it down one by one for the assignment. I wanted to make the skeleton today, tomorrow will be the JavaScript grid, next day hover stuff ,etc. 
+
+**Link to Work:** [Web Development 101's Etch-a-Sketch](https://www.theodinproject.com/lessons/etch-a-sketch-project) \
+[My WIP solution for Etch-a-Sketch](https://github.com/catcecilia/etchsketch) \
+[Live version of my WIP Etch-a-Sketch](https://catcecilia.github.io/etchsketch/)
+
 
