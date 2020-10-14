@@ -210,7 +210,7 @@ next would be figuring out to default on window loadscreen make a 16x16 grid. \
 3rd would be figuring out on:hover \
     a. change the color while hovering and after to black. \
     b. same with step a, but with a radio selection (that isn't random). \
-    c. same as step a., but with random
+    c. same as step b., but with random
 
 **Link to Work:** [Web Development 101's Etch-a-Sketch](https://www.theodinproject.com/lessons/etch-a-sketch-project) \
 [My WIP solution for Etch-a-Sketch](https://github.com/catcecilia/etchsketch) \
