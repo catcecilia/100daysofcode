@@ -202,4 +202,16 @@
 [My WIP solution for Etch-a-Sketch](https://github.com/catcecilia/etchsketch) \
 [Live version of my WIP Etch-a-Sketch](https://catcecilia.github.io/etchsketch/)
 
+### Day 24: October 13, 2020
+**Today's Progress:** I added to the Etch-a-Sketch project
+
+**Thoughts:** I made JavaScript be able to add based on calling tableIt(). what is next on the immediate to do list: CSS variables to dynamically change the width and height of .grid-row and .grid-column to fill up the whole space for the container. \
+next would be figuring out to default on window loadscreen make a 16x16 grid. 3rd would be figuring out on:hover \
+  a. change the color while hovering and after to black. \
+  b. same with step a, but with a radio selection (that isn't random). \
+  c. same as step a., but with random
+
+**Link to Work:** [Web Development 101's Etch-a-Sketch](https://www.theodinproject.com/lessons/etch-a-sketch-project) \
+[My WIP solution for Etch-a-Sketch](https://github.com/catcecilia/etchsketch) \
+[Live version of my WIP Etch-a-Sketch](https://catcecilia.github.io/etchsketch/)
 
