@@ -220,6 +220,6 @@ next would be figuring out to default on window loadscreen make a 16x16 grid. \
 ### Day 25: October 20, 2020
 **Today's Progress:** I finished Fundamentals part 5 and practicing all the JavaScript Exercises
 
-**Thoughts:** I'm going to restart and refresh on the etch-a-sketch. Focused on learning. Haven't worked in a week due to having a severe flu. I plan on thoroughly researching and figuring out for my own how to do the etch-a-sketch and then the calculator. Hopefully finishing them by the 31st. :)  \
+**Thoughts:** I'm going to restart and refresh on the etch-a-sketch. Focused on learning. Haven't worked in a week due to having a severe flu. I plan on thoroughly researching and figuring out for my own how to do the etch-a-sketch and then the calculator. Hopefully finishing them by the 31st. :)  
 
 **Link to Work:** [Web Development 101's Fundamentals part 5](https://www.theodinproject.com/courses/web-development-101/lessons/fundamentals-part-5)
