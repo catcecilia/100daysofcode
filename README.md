@@ -229,6 +229,8 @@ next would be figuring out to default on window loadscreen make a 16x16 grid. \
 
 **Thoughts:** My focus right now is to do the JavaScript exercises as well as JavaScript30. I plan on starting/redoing etch-a-sketch over the weekend and the  calculator too. End goal is to have Web Dev 101 curriculum to be completed by EOD 10/31/2020. 
 
-**Link to Work:** [Web Development 101's Curriculum Page](https://www.theodinproject.com/courses/web-development-101) \ 
-[Check out the updates on my javascript exercises](https://github.com/catcecilia/javascript-exercises) \
+**Link to Work:** [Web Development 101's Curriculum Page](https://www.theodinproject.com/courses/web-development-101)  \ 
+
+[Check out the updates on my javascript exercises](https://github.com/catcecilia/javascript-exercises)  \
+
 [Or even what I did with JavaScript30 but honestly it feels like a follow along](https://github.com/catcecilia/JavaScript30)
