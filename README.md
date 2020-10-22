@@ -223,3 +223,12 @@ next would be figuring out to default on window loadscreen make a 16x16 grid. \
 **Thoughts:** I'm going to restart and refresh on the etch-a-sketch. Focused on learning. Haven't worked in a week due to having a severe flu. I plan on thoroughly researching and figuring out for my own how to do the etch-a-sketch and then the calculator. Hopefully finishing them by the 31st. :)  
 
 **Link to Work:** [Web Development 101's Fundamentals part 5](https://www.theodinproject.com/courses/web-development-101/lessons/fundamentals-part-5)
+
+### Day 26: October 21, 2020
+**Today's Progress:** I finished reading Web Dev's Back End and Tying it all together sections. Also finished a few JavaScript exercises and day 2 of JavaScript30. 
+
+**Thoughts:** My focus right now is to do the JavaScript exercises as well as JavaScript30. I plan on starting/redoing etch-a-sketch over the weekend and the  calculator too. End goal is to have Web Dev 101 curriculum to be completed by EOD 10/31/2020. 
+
+**Link to Work:** [Web Development 101's Curriculum Page](https://www.theodinproject.com/courses/web-development-101) \ 
+[Check out the updates on my javascript exercises](https://github.com/catcecilia/javascript-exercises) \
+[Or even what I did with JavaScript30 but honestly it feels like a follow along](https://github.com/catcecilia/JavaScript30)
