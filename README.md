@@ -234,3 +234,22 @@ next would be figuring out to default on window loadscreen make a 16x16 grid. \
 [Check out the updates on my javascript exercises](https://github.com/catcecilia/javascript-exercises)  \
 
 [Or even what I did with JavaScript30 but honestly it feels like a follow along](https://github.com/catcecilia/JavaScript30)
+
+
+### Day 27: October 22, 2020
+**Today's Progress:** I finished a few JavaScript exercises and day 2 of JavaScript30. 
+
+**Thoughts:** My focus right now is to do the JavaScript exercises as well as JavaScript30. I plan on starting/redoing etch-a-sketch over the weekend and the  calculator too. End goal is to have Web Dev 101 curriculum to be completed by EOD 10/31/2020. 
+
+**Link to Work:** 
+[Check out the updates on my javascript exercises](https://github.com/catcecilia/javascript-exercises)  \
+
+[Or even what I did with JavaScript30 but honestly it feels like a follow along](https://github.com/catcecilia/JavaScript30)
+
+
+### Day 28: October 23, 2020
+**Today's Progress:** I finished day 4 JavaScript30. 
+
+**Thoughts:** I'm really busy at my work right now, so that's all I could do. Hopefully this weekend I can start the last two projects in the Odin Project's Web Dev 101. 
+**Link to Work:** 
+[Or even what I did with JavaScript30 but honestly it feels like a follow along](https://github.com/catcecilia/JavaScript30)
