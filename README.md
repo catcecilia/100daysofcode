@@ -253,3 +253,11 @@ next would be figuring out to default on window loadscreen make a 16x16 grid. \
 **Thoughts:** I'm really busy at my work right now, so that's all I could do. Hopefully this weekend I can start the last two projects in the Odin Project's Web Dev 101. 
 **Link to Work:** 
 [Or even what I did with JavaScript30 but honestly it feels like a follow along](https://github.com/catcecilia/JavaScript30)
+
+### Day 29: October 24, 2020
+**Today's Progress:** I finished day 5 JavaScript30. 
+
+**Thoughts:** I'm really busy at my work right now and plan on focusing on my homework assignments, so just JavaScript 30 for the weekend and looking over the TOP projects.
+
+**Link to Work:** 
+[Or even what I did with JavaScript30 but honestly it feels like a follow along](https://github.com/catcecilia/JavaScript30)
