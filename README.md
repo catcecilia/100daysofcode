@@ -261,3 +261,13 @@ next would be figuring out to default on window loadscreen make a 16x16 grid. \
 
 **Link to Work:** 
 [Or even what I did with JavaScript30 but honestly it feels like a follow along](https://github.com/catcecilia/JavaScript30)
+
+
+### Day 30: October 25, 2020
+**Today's Progress:** I finished Etch-a-sketch and day 6 JavaScript30.
+
+**Thoughts:** I WAS NOT EXPECTING TO FINISH IT AT ALL OMG. I WAS JUST TRYING TO DO IT LITTLE BY LITTLE. AHH SO PUMPED SINCE I WAS SO STUMPED. AWAKE FOR TOO LONG GOTTA SLEEP. I DO NOT PLAN ON DOING THE OPTIONAL INTRICACY 
+
+**Link to Work:** [Web Development 101's Etch-a-Sketch](https://www.theodinproject.com/lessons/etch-a-sketch-project) \
+[Solution Etch-a-Sketch](https://github.com/catcecilia/etchsketch) \
+[Live version of my Etch-a-Sketch](https://catcecilia.github.io/etchsketch/)
